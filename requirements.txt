@@ -1,1 +1,6 @@
-# Python 依赖列表\n# 根据工具功能添加相应依赖\n\n
+# 依赖列表
+# 安装: pip install -r requirements.txt
+
+requests>=2.31.0
+beautifulsoup4>=4.12.0
+playwright>=1.40.0
